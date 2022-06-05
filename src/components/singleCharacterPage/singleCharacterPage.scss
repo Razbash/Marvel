@@ -1,0 +1,11 @@
+.char-page {
+    display: flex;
+
+    &__img {
+        margin-right: 50px;
+    }
+
+    &__name {
+        margin-bottom: 25px;
+    }
+}
